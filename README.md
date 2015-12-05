@@ -1,0 +1,2 @@
+# ElCapitan-MacFlush
+Init
